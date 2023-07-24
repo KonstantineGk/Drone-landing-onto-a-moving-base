@@ -8,7 +8,7 @@ landing on the randomly moving base.
 
 This project was completed during the "Robotic Systems" course. (University of Patras)
 
-1)First you need to install ROS in a linux system.
+1) First you need to install ROS in a linux system.
 2) Follow this installation from https://github.com/whoenig/crazyflie_ros to install the crazyflie libraries.
 3) Add the G0_n_Land.launch file in the launch files and the Go_n_Land.py file in the .py files.
 4) Finally modify the launch file to fit your parameters.( Adress, etc...)
